@@ -1,0 +1,13 @@
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\bin\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.exe
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\bin\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.deps.json
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\bin\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.runtimeconfig.json
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\bin\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.runtimeconfig.dev.json
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\bin\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.dll
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\bin\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.pdb
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\obj\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.csprojAssemblyReference.cache
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\obj\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.AssemblyInfoInputs.cache
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\obj\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.AssemblyInfo.cs
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\obj\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.csproj.CoreCompileInputs.cache
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\obj\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.dll
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\obj\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.pdb
+D:\Programeren\AdaptiveProgramming\Formatief1a\Autoverhuur_Gameswinkel\obj\Debug\netcoreapp3.1\Autoverhuur_Gameswinkel.genruntimeconfig.cache
